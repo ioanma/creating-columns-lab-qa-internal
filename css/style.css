@@ -50,7 +50,9 @@ img:hover {
 .column {
   display: block;
 }
-.amiable .column:first
+.amiable .column:first-of-type {
+  
+}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100%;
