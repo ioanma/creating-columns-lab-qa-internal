@@ -55,10 +55,12 @@ img:hover {
   height: 100%;
 }
 .amiable .column::nth-child(2) {
-  
+  width: 66%;
+  height: 66%;
 }
 .amiable .column::nth-child(3) {
-  
+  width: 66%;
+  height: 2%;
 }
 /* create your tile classes! we recommend .small .med .large */
 .small {
