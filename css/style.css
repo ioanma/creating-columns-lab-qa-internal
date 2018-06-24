@@ -63,6 +63,7 @@ img:hover {
 .amiable .column:nth-child(2) {
   width: 66%;
   height: 66%;
+  float: left;
 }
 .amiable .column:nth-child(2) img {
   width: 100%;
