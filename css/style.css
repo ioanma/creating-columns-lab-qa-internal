@@ -53,6 +53,9 @@ img:hover {
 .amiable .column:first-of-type {
   
 }
+.amiable .column::nth-child(2) {
+  
+}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100%;
