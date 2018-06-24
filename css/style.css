@@ -53,7 +53,6 @@ img:hover {
 }
 .amiable .column:first-of-type {
   width: 33%;
-  height: 66%;
   float: left;
 }
 .amiable .column:first-of-type img {
@@ -62,7 +61,6 @@ img:hover {
 }
 .amiable .column:nth-child(2) {
   width: 66%;
-  height: 66%;
   float: left;
 }
 .amiable .column:nth-child(2) img {
