@@ -54,6 +54,7 @@ img:hover {
 .amiable .column:first-of-type {
   width: 33%;
   height: 66%;
+  float: left;
 }
 .amiable .column:first-of-type img {
   width: 100%;
